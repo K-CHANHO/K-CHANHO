@@ -1,3 +1,3 @@
 - 👋 Hi, I’m CHANHO KIM
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Back-End developing.
 - 📫 How to reach me : cksgh1565@gmail.com
