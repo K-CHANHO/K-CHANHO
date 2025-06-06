@@ -5,3 +5,4 @@
 ### Get in Touch
 
 [![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&lin=https://zzsza.github.io/)](https://chano-s-blog.tistory.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/chanos0901)](www.linkedin.com/in/chanos0901)
+
